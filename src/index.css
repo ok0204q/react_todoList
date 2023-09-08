@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    height: 100vh;
+    padding: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.active {
+    color: #333333;
+    border-bottom: 2px solid #333333;
+}
