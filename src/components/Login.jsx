@@ -14,7 +14,7 @@ function Login({ signIn }) {
   return (
     <div className="flex-1 flex items-center container mx-auto">
       <div className="w-1/2 h-4/5 flex justify-center items-center ">
-        <img src="public/LoginIcon.png" alt="Todologo" className="w-3/5" />
+        <img src="/LoginIcon.png" alt="Todologo" className="w-3/5" />
       </div>
       <div className="w-1/4">
         <form className=" flex flex-col justify-center ">
